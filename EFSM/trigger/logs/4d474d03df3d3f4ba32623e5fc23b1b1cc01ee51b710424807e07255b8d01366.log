@@ -1,0 +1,4 @@
+package_name=campyre.android
+activity=campyre.android.RoomList campyre.android.Login campyre.android.RoomTabs campyre.android.RoomView campyre.android.TranscriptView campyre.android.PasteDetail campyre.android.ImageDetail campyre.android.ShareImage campyre.android.Settings
+service=
+receiver=

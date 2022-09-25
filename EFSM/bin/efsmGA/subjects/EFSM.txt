@@ -1,0 +1,491 @@
+14;66
+State:
+	name=S_1
+State:
+	name=S_47
+State:
+	name=S_127
+State:
+	name=S_5
+State:
+	name=S_6
+State:
+	name=S_51
+State:
+	name=S_561
+State:
+	name=S_139
+State:
+	name=S_15
+State:
+	name=S_14
+State:
+	name=S_17
+State:
+	name=S_130
+State:
+	name=S_11
+State:
+	name=S_131
+Transition:
+	name=T1
+	src=S_5
+	tgt=S_6
+	event=click(className='android.widget.TextView',instance='0'):android.widget.TextView@"insert";()
+	cond=
+	action=
+Transition:
+	name=T2
+	src=S_127
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='5'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T3
+	src=S_14
+	tgt=S_1
+	event=back;()
+	cond=
+	action=
+Transition:
+	name=T4
+	src=S_561
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T5
+	src=S_15
+	tgt=S_14
+	event=back;()
+	cond=
+	action=
+Transition:
+	name=T6
+	src=S_17
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Needed ingredients are unchecked";()
+	cond=
+	action=
+Transition:
+	name=T7
+	src=S_1
+	tgt=S_561
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T8
+	src=S_1
+	tgt=S_5
+	event=menu;()
+	cond=
+	action=
+Transition:
+	name=T9
+	src=S_14
+	tgt=S_15
+	event=click(className='android.widget.TextView',instance='2'):android.widget.TextView@"add to shopping list";()
+	cond=
+	action=
+Transition:
+	name=T10
+	src=S_47
+	tgt=S_561
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/ingredient_edit )
+	cond=
+	action=
+Transition:
+	name=T11
+	src=S_17
+	tgt=S_14
+	event=back;()
+	cond=
+	action=
+Transition:
+	name=T12
+	src=S_47
+	tgt=S_47
+	event=edit(resource-id='caldwell.ben.bites:id/ingredient_edit'):android.widget.EditText@"0200";(caldwell.ben.bites:id/ingredient_edit )
+	cond=
+	action=
+Transition:
+	name=T13
+	src=S_15
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Needed ingredients are unchecked";()
+	cond=
+	action=
+Transition:
+	name=T14
+	src=S_14
+	tgt=S_15
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T15
+	src=S_139
+	tgt=S_47
+	event=click(className='android.widget.TextView',instance='2'):android.widget.TextView@"add to shopping list";()
+	cond=
+	action=
+Transition:
+	name=T16
+	src=S_127
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T17
+	src=S_6
+	tgt=S_127
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond={type=string resource_id=caldwell.ben.bites:id/recipename_edit value=test type=string resource_id=caldwell.ben.bites:id/recipeauthor_edit value=test }
+	action=
+Transition:
+	name=T18
+	src=S_11
+	tgt=S_14
+	event=click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Method";()
+	cond=
+	action=
+Transition:
+	name=T19
+	src=S_51
+	tgt=S_47
+	event=click(className='android.widget.TextView',instance='0'):android.widget.TextView@"insert";()
+	cond=
+	action=
+Transition:
+	name=T20
+	src=S_1
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='2'):android.widget.TextView@"add to shopping list";()
+	cond=
+	action=
+Transition:
+	name=T21
+	src=S_6
+	tgt=S_6
+	event=edit(resource-id='caldwell.ben.bites:id/recipename_edit'):android.widget.EditText@"test";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond=
+	action=
+Transition:
+	name=T22
+	src=S_17
+	tgt=S_14
+	event=click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";()
+	cond=
+	action=
+Transition:
+	name=T23
+	src=S_6
+	tgt=S_561
+	event=click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond={type=string resource_id=caldwell.ben.bites:id/recipename_edit value=12st }
+	action=
+Transition:
+	name=T24
+	src=S_6
+	tgt=S_6
+	event=edit(resource-id='caldwell.ben.bites:id/recipeauthor_edit'):android.widget.EditText@"test";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond=
+	action=
+Transition:
+	name=T25
+	src=S_11
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='2'):android.widget.TextView@"add to shopping list";()
+	cond=
+	action=
+Transition:
+	name=T26
+	src=S_11
+	tgt=S_47
+	event=click(className='android.widget.TextView',instance='0'):android.widget.TextView@"insert";()
+	cond=
+	action=
+Transition:
+	name=T27
+	src=S_127
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='7'):android.widget.TextView@"12st";()
+	cond=
+	action=
+Transition:
+	name=T28
+	src=S_1
+	tgt=S_11
+	event=menu;()
+	cond=
+	action=
+Transition:
+	name=T29
+	src=S_561
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='5'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T30
+	src=S_5
+	tgt=S_14
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T31
+	src=S_17
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Alphabetical descending";()
+	cond=
+	action=
+Transition:
+	name=T32
+	src=S_6
+	tgt=S_1
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond={type=string resource_id=caldwell.ben.bites:id/recipename_edit value=Recipe name }{type=string resource_id=caldwell.ben.bites:id/recipename_edit value=12000 }{type=string resource_id=caldwell.ben.bites:id/recipename_edit value=test type=string resource_id=caldwell.ben.bites:id/recipeauthor_edit value=1200 }
+	action=
+Transition:
+	name=T33
+	src=S_6
+	tgt=S_561
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond={type=string resource_id=caldwell.ben.bites:id/recipename_edit value=12st }
+	action=
+Transition:
+	name=T34
+	src=S_127
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"12st";()
+	cond=
+	action=
+Transition:
+	name=T35
+	src=S_127
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='6'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T36
+	src=S_14
+	tgt=S_17
+	event=click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Method";()
+	cond=
+	action=
+Transition:
+	name=T37
+	src=S_561
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='6'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T38
+	src=S_47
+	tgt=S_1
+	event=click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/ingredient_edit )
+	cond=
+	action=
+Transition:
+	name=T39
+	src=S_1
+	tgt=S_1
+	event=click(resource-id='caldwell.ben.bites:id/ingredientcheck'):android.widget.CheckBox@"";()
+	cond=
+	action=
+Transition:
+	name=T40
+	src=S_15
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Modified descending";()
+	cond=
+	action=
+Transition:
+	name=T41
+	src=S_1
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T42
+	src=S_130
+	tgt=S_131
+	event=click(className='android.widget.TextView',instance='0'):android.widget.TextView@"insert";()
+	cond=
+	action=
+Transition:
+	name=T43
+	src=S_47
+	tgt=S_127
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/ingredient_edit )
+	cond=
+	action=
+Transition:
+	name=T44
+	src=S_15
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Modified ascending";()
+	cond=
+	action=
+Transition:
+	name=T45
+	src=S_131
+	tgt=S_131
+	event=edit(resource-id='caldwell.ben.bites:id/method_edit'):android.widget.EditText@"12000";(caldwell.ben.bites:id/method_step caldwell.ben.bites:id/method_edit )
+	cond=
+	action=
+Transition:
+	name=T46
+	src=S_561
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T47
+	src=S_1
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Method";()
+	cond=
+	action=
+Transition:
+	name=T48
+	src=S_1
+	tgt=S_51
+	event=clickLong(resource-id='caldwell.ben.bites:id/ingredienttext'):android.widget.TextView@"";()
+	cond=
+	action=
+Transition:
+	name=T49
+	src=S_561
+	tgt=S_1
+	event=click(className='android.widget.TextView',instance='7'):android.widget.TextView@"12st";()
+	cond=
+	action=
+Transition:
+	name=T50
+	src=S_139
+	tgt=S_561
+	event=click(className='android.widget.TextView',instance='4'):android.widget.TextView@"The check state of ingredients that should be added to the shopping list";()
+	cond=
+	action=
+Transition:
+	name=T51
+	src=S_131
+	tgt=S_131
+	event=edit(resource-id='caldwell.ben.bites:id/method_step'):android.widget.EditText@"Step number";(caldwell.ben.bites:id/method_step caldwell.ben.bites:id/method_edit )
+	cond=
+	action=
+Transition:
+	name=T52
+	src=S_1
+	tgt=S_127
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T53
+	src=S_127
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"test";()
+	cond=
+	action=
+Transition:
+	name=T54
+	src=S_1
+	tgt=S_130
+	event=menu;()
+	cond=
+	action=
+Transition:
+	name=T55
+	src=S_15
+	tgt=S_14
+	event=click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Alphabetical descending";()
+	cond=
+	action=
+Transition:
+	name=T56
+	src=S_139
+	tgt=S_127
+	event=click(className='android.widget.TextView',instance='4'):android.widget.TextView@"The check state of ingredients that should be added to the shopping list";()
+	cond=
+	action=
+Transition:
+	name=T57
+	src=S_561
+	tgt=S_139
+	event=clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"12st";()
+	cond=
+	action=
+Transition:
+	name=T58
+	src=S_6
+	tgt=S_127
+	event=click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond={type=string resource_id=caldwell.ben.bites:id/recipename_edit value=test }
+	action=
+Transition:
+	name=T59
+	src=S_1
+	tgt=S_1
+	event=click(resource-id='caldwell.ben.bites:id/ingredienttext'):android.widget.TextView@"";()
+	cond=
+	action=
+Transition:
+	name=T60
+	src=S_131
+	tgt=S_1
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/method_step caldwell.ben.bites:id/method_edit )
+	cond=
+	action=
+Transition:
+	name=T61
+	src=S_51
+	tgt=S_47
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T62
+	src=S_47
+	tgt=S_1
+	event=click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel";(caldwell.ben.bites:id/ingredient_edit )
+	cond=
+	action=
+Transition:
+	name=T63
+	src=S_14
+	tgt=S_17
+	event=click(className='android.widget.TextView',instance='4'):android.widget.TextView@"The check state of ingredients that should be added to the shopping list";()
+	cond=
+	action=
+Transition:
+	name=T64
+	src=S_6
+	tgt=S_6
+	event=edit(resource-id='caldwell.ben.bites:id/recipedescription'):android.widget.EditText@"12st";(caldwell.ben.bites:id/recipename_edit caldwell.ben.bites:id/recipeauthor_edit caldwell.ben.bites:id/recipedescription )
+	cond=
+	action=
+Transition:
+	name=T65
+	src=S_139
+	tgt=S_6
+	event=click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Recipes";()
+	cond=
+	action=
+Transition:
+	name=T66
+	src=S_15
+	tgt=S_14
+	event=click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";()
+	cond=
+	action=

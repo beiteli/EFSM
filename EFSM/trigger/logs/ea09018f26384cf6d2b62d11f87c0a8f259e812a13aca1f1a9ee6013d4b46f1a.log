@@ -1,0 +1,4 @@
+package_name=org.balau.fakedawn
+activity=org.balau.fakedawn.Preferences org.balau.fakedawn.Dawn org.balau.fakedawn.License
+service=org.balau.fakedawn.Alarm org.balau.fakedawn.DawnSound
+receiver=org.balau.fakedawn.StartAtBoot org.balau.fakedawn.AlarmReceiver org.balau.fakedawn.InstallationReceiver

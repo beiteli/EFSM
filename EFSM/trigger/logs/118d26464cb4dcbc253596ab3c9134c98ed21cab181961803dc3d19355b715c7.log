@@ -1,0 +1,4 @@
+package_name=com.hykwok.CurrencyConverter
+activity=com.hykwok.CurrencyConverter.ActivityMain com.hykwok.CurrencyConverter.CurrencyPreferences
+service=com.hykwok.CurrencyConverter.CurrencyConverterService
+receiver=

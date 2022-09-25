@@ -1,0 +1,4 @@
+package_name=com.sunyata.kindmind
+activity=com.sunyata.kindmind.Main.MainActivityC com.sunyata.kindmind.Setup.ItemSetupActivityC com.sunyata.kindmind.Setup.VideoChooserActivity com.sunyata.kindmind.Setup.BookmarkChooserActivityC com.sunyata.kindmind.WidgetAndNotifications.WidgetConfigActivityC com.sunyata.kindmind.AboutActivityC
+service=com.sunyata.kindmind.WidgetAndNotifications.NotificationServiceC com.sunyata.kindmind.WidgetAndNotifications.RemoteViewsServiceC com.sunyata.kindmind.WidgetAndNotifications.LauncherServiceC com.sunyata.kindmind.List.SortingAlgorithmServiceM
+receiver=com.sunyata.kindmind.WidgetAndNotifications.BootCompletedReceiverC com.sunyata.kindmind.WidgetAndNotifications.WidgetProviderC

@@ -1,0 +1,4 @@
+package_name=biz.gyrus.yaab
+activity=biz.gyrus.yaab.MainActivity biz.gyrus.yaab.CreditsActivity biz.gyrus.yaab.RangesActivity biz.gyrus.yaab.PrefsActivity biz.gyrus.yaab.DonateActivity
+service=biz.gyrus.yaab.LightMonitorService
+receiver=biz.gyrus.yaab.DeviceBootReceiver

@@ -1,0 +1,4 @@
+package_name=jpf.android.diary
+activity=jpf.android.diary.Diary jpf.android.diary.Text
+service=
+receiver=

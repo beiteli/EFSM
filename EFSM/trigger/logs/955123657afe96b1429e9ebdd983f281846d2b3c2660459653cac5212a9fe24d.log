@@ -1,0 +1,4 @@
+package_name=com.android.spritemethodtest
+activity=com.android.spritemethodtest.SpriteMethodTest com.android.spritemethodtest.OpenGLTestActivity com.android.spritemethodtest.CanvasTestActivity
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=com.google.android.opengles.spritetext
+activity=com.google.android.opengles.spritetext.SpriteTextActivity
+service=
+receiver=

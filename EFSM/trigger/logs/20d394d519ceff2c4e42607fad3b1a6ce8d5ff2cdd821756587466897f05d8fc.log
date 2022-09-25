@@ -1,0 +1,4 @@
+package_name=eu.domob.angulo
+activity=eu.domob.angulo.AnguloClassic eu.domob.angulo.TriAngulo eu.domob.angulo.Preferences eu.domob.angulo.SetHeight
+service=
+receiver=

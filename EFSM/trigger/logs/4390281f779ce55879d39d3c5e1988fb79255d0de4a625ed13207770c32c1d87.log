@@ -1,0 +1,4 @@
+package_name=fr.kwiatkowski.ApkTrack
+activity=fr.kwiatkowski.ApkTrack.MainActivity fr.kwiatkowski.ApkTrack.SettingsActivity
+service=fr.kwiatkowski.ApkTrack.ScheduledVersionCheckService fr.kwiatkowski.ApkTrack.RequesterService
+receiver=com.commonsware.cwac.wakeful.AlarmReceiver fr.kwiatkowski.ApkTrack.BroadcastHandler

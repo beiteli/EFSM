@@ -1,0 +1,4 @@
+package_name=com.github.cetoolbox
+activity=com.github.cetoolbox.CEToolboxActivity com.github.cetoolbox.fragments.tabs.SimpleActivity com.github.cetoolbox.fragments.tabs.ExpertActivity com.github.cetoolbox.fragments.tabs.AboutActivity
+service=
+receiver=

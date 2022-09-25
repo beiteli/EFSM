@@ -1,0 +1,4 @@
+package_name=com.twsitedapps.homemanager
+activity=com.twsitedapps.homemanager.HomeManagerActivity com.twsitedapps.homemanager.QuickSelectActivity com.twsitedapps.homemanager.GetHomeActivity com.twsitedapps.homemanager.Preferences
+service=
+receiver=com.twsitedapps.homemanager.MainBroadcastReceiver

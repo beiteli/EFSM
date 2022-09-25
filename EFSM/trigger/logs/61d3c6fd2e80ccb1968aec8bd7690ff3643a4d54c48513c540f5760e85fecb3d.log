@@ -1,0 +1,4 @@
+package_name=com.nephoapp.anarxiv
+activity=com.nephoapp.anarxiv.anarxiv com.nephoapp.anarxiv.SubCategoryWnd com.nephoapp.anarxiv.PaperListWnd com.nephoapp.anarxiv.PaperDetailWnd com.nephoapp.anarxiv.PaperDetailWnd_2
+service=
+receiver=

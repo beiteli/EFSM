@@ -1,0 +1,4 @@
+package_name=com.threedlite.urforms
+activity=com.threedlite.urforms.SearchDataActivity com.threedlite.urforms.SearchResultsActivity com.threedlite.urforms.EnterDataActivity com.threedlite.urforms.ManageFormsActivity com.threedlite.urforms.BackupRestoreActivity com.threedlite.urforms.UrformsFileChooserActivity
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=org.nerdcircus.android.klaxon
+activity=org.nerdcircus.android.klaxon.KlaxonList org.nerdcircus.android.klaxon.PageViewer org.nerdcircus.android.klaxon.Preferences org.nerdcircus.android.klaxon.Changelog org.nerdcircus.android.klaxon.ReplyList org.nerdcircus.android.klaxon.ReplyEditor
+service=
+receiver=org.nerdcircus.android.klaxon.SmsPageReceiver org.nerdcircus.android.klaxon.Notifier

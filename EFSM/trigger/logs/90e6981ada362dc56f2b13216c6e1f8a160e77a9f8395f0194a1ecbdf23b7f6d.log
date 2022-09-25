@@ -1,0 +1,4 @@
+package_name=fr.keuse.rightsalert
+activity=fr.keuse.rightsalert.activity.ApplistActivity fr.keuse.rightsalert.preference.RightsalertPreference
+service=
+receiver=

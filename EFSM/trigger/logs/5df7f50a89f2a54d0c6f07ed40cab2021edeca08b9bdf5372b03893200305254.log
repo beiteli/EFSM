@@ -1,0 +1,4 @@
+package_name=marto.rtl_tcp_andro
+activity=marto.rtl_tcp_andro.DeviceOpenActivity marto.rtl_tcp_andro.StreamActivity
+service=marto.rtl_tcp_andro.tools.BinaryRunnerService
+receiver=

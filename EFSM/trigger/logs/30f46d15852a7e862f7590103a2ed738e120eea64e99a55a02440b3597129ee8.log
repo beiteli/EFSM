@@ -1,0 +1,4 @@
+package_name=com.ringdroid
+activity=com.ringdroid.RingdroidSelectActivity com.ringdroid.RingdroidEditActivity com.ringdroid.ChooseContactActivity
+service=
+receiver=

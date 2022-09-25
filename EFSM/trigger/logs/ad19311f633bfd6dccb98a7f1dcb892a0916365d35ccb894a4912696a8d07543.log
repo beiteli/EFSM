@@ -1,0 +1,4 @@
+package_name=org.beide.bomber
+activity=org.beide.bomber.BomberActivity org.beide.bomber.BomberPreferences
+service=
+receiver=

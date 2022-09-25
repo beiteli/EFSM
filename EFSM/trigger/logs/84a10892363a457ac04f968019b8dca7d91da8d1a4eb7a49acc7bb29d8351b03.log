@@ -1,0 +1,4 @@
+package_name=de.zieren.rot13
+activity=de.zieren.rot13.TranslatorActivity
+service=
+receiver=

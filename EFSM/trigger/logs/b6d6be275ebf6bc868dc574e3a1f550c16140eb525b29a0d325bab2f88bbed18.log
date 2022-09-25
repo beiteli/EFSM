@@ -1,0 +1,4 @@
+package_name=org.paulmach.textedit
+activity=org.paulmach.textedit.pmTextEdit org.paulmach.textedit.EditPreferences org.paulmach.textedit.FileBrowser
+service=
+receiver=

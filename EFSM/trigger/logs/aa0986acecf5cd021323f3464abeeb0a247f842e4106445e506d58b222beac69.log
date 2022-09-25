@@ -1,0 +1,4 @@
+package_name=com.kkinder.charmap
+activity=com.kkinder.charmap.Charmap
+service=
+receiver=

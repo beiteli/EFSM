@@ -1,0 +1,4 @@
+package_name=com.commonsware.android.arXiv
+activity=com.commonsware.android.arXiv.PrintDialogActivity com.commonsware.android.arXiv.HistoryWindow com.commonsware.android.arXiv.SingleItemWindow com.commonsware.android.arXiv.EditPreferences com.commonsware.android.arXiv.SearchWindow com.commonsware.android.arXiv.SearchListWindow com.commonsware.android.arXiv.RSSListWindow com.commonsware.android.arXiv.SubarXiv com.commonsware.android.arXiv.arXiv
+service=
+receiver=com.commonsware.android.arXiv.ArxivAppWidgetProvider

@@ -1,0 +1,4 @@
+package_name=com.zachrattner.pockettalk
+activity=com.zachrattner.pockettalk.gui.Main
+service=
+receiver=com.zachrattner.pockettalk.util.SMSReader

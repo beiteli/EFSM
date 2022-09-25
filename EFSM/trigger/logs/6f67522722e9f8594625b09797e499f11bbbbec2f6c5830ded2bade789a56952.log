@@ -1,0 +1,4 @@
+package_name=com.bretternst.URLazy
+activity=com.bretternst.URLazy.MainActivity
+service=
+receiver=

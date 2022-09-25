@@ -1,0 +1,4 @@
+package_name=us.achromaticmetaphor.imcktg
+activity=us.achromaticmetaphor.imcktg.GaAT us.achromaticmetaphor.imcktg.SelectContacts us.achromaticmetaphor.imcktg.DefaultToneInput us.achromaticmetaphor.imcktg.ChooseFilename us.achromaticmetaphor.imcktg.ConfirmContacts us.achromaticmetaphor.imcktg.About
+service=
+receiver=

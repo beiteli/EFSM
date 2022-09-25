@@ -1,0 +1,4 @@
+package_name=com.google.android.opengles.triangle
+activity=com.google.android.opengles.triangle.TriangleActivity
+service=
+receiver=
