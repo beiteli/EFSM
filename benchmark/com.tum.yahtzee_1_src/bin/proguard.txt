@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.tum.yahtzee.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.tum.yahtzee.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.tum.yahtzee.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.tum.yahtzee.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.tum.yahtzee.YahtzeeActivity { <init>(...); }
+

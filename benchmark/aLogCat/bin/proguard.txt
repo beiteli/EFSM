@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:13
+-keep class org.jtb.alogcat.ALogcatApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class org.jtb.alogcat.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class org.jtb.alogcat.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class org.jtb.alogcat.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class org.jtb.alogcat.LogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class org.jtb.alogcat.PrefsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class org.jtb.alogcat.SaveReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class org.jtb.alogcat.SaveService { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class org.jtb.alogcat.ShareReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class org.jtb.alogcat.ShareService { <init>(...); }
+

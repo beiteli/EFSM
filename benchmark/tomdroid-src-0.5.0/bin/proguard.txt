@@ -1,0 +1,33 @@
+# view AndroidManifest.xml #generated:80
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class org.tomdroid.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class org.tomdroid.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class org.tomdroid.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class org.tomdroid.NoteProvider { <init>(...); }
+
+# view res/layout/actionbar.xml #generated:23
+-keep class org.tomdroid.ui.Actionbar { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class org.tomdroid.ui.PreferencesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class org.tomdroid.ui.Search { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class org.tomdroid.ui.Tomdroid { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class org.tomdroid.ui.ViewNote { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class org.tomdroid.util.SearchSuggestionProvider { <init>(...); }
+

@@ -1,0 +1,16 @@
+# view AndroidManifest.xml #generated:34
+-keep class com.android.lolcat.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.android.lolcat.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.lolcat.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.lolcat.LolcatActivity { <init>(...); }
+
+# view land/res/layout-land/lolcat_activity.xml #generated:29
+# view res/layout/lolcat_activity.xml #generated:29
+-keep class com.android.lolcat.LolcatView { <init>(...); }
+

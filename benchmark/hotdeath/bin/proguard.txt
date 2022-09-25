@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.smorgasbork.hotdeath.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.smorgasbork.hotdeath.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.smorgasbork.hotdeath.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class com.smorgasbork.hotdeath.Main { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.smorgasbork.hotdeath.Prefs { <init>(...); }
+

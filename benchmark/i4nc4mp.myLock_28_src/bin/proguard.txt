@@ -1,0 +1,46 @@
+# view AndroidManifest.xml #generated:45
+-keep class i4nc4mp.myLock.AutoDismiss { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class i4nc4mp.myLock.AutoDismiss$AutoDismissActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class i4nc4mp.myLock.BootHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class i4nc4mp.myLock.CallPrompt { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class i4nc4mp.myLock.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class i4nc4mp.myLock.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class i4nc4mp.myLock.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view res/xml/mainpref.xml #generated:48
+# view res/xml/mainpref.xml #generated:52
+-keep class i4nc4mp.myLock.MainDialogPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class i4nc4mp.myLock.MainPreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class i4nc4mp.myLock.PhoneReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class i4nc4mp.myLock.ScreenMediator { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class i4nc4mp.myLock.ToggleWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class i4nc4mp.myLock.Toggler { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class i4nc4mp.myLock.TouchGuard { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class i4nc4mp.myLock.myLockBootReceiver { <init>(...); }
+

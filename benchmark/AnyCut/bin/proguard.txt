@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:40
+-keep class com.example.anycut.ActivityPickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.example.anycut.CreateShortcutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.example.anycut.CustomShortcutCreatorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.example.anycut.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.example.anycut.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.example.anycut.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.example.anycut.FrontDoorActivity { <init>(...); }
+

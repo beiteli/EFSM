@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:47
+-keep class net.jaqpot.netcounter.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class net.jaqpot.netcounter.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class net.jaqpot.netcounter.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class net.jaqpot.netcounter.NetCounterApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class net.jaqpot.netcounter.activity.BarGraphActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class net.jaqpot.netcounter.activity.NetCounterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class net.jaqpot.netcounter.activity.NetCounterPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class net.jaqpot.netcounter.service.NetCounterService { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class net.jaqpot.netcounter.service.OnAlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class net.jaqpot.netcounter.service.OnBootReceiver { <init>(...); }
+

@@ -1,0 +1,25 @@
+# view res/layout/number_picker_pref.xml #generated:25
+-keep class com.example.widget.NumberPicker { <init>(...); }
+
+# view res/layout/number_picker.xml #generated:22
+# view res/layout/number_picker.xml #generated:37
+-keep class com.example.widget.NumberPickerButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.zoffcc.applications.aagtl.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.zoffcc.applications.aagtl.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.zoffcc.applications.aagtl.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.zoffcc.applications.aagtl.PostLogEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.zoffcc.applications.aagtl.TextEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.zoffcc.applications.aagtl.aagtl { <init>(...); }
+

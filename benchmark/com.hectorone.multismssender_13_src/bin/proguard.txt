@@ -1,0 +1,33 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.hectorone.multismssender.DeliveryDbAdapter { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.hectorone.multismssender.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.hectorone.multismssender.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.hectorone.multismssender.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.hectorone.multismssender.GroupEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.hectorone.multismssender.ListEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.hectorone.multismssender.MessageReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class com.hectorone.multismssender.MultiSmsSender { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.hectorone.multismssender.PhoneNumberSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.hectorone.multismssender.SelectDeliveryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.hectorone.multismssender.SelectGroupActivity { <init>(...); }
+

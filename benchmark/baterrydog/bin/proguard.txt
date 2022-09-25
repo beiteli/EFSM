@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:8
+-keep class net.sf.andbatdog.batterydog.BatteryDog { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class net.sf.andbatdog.batterydog.BatteryDog_Service { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class net.sf.andbatdog.batterydog.BatteryGraph { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class net.sf.andbatdog.batterydog.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class net.sf.andbatdog.batterydog.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class net.sf.andbatdog.batterydog.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+

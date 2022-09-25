@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:54
+-keep class com.example.android.musicplayer.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.example.android.musicplayer.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.example.android.musicplayer.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.example.android.musicplayer.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.example.android.musicplayer.MusicIntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.example.android.musicplayer.MusicService { <init>(...); }
+

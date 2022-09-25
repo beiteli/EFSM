@@ -1,0 +1,30 @@
+# view res/xml/preferences.xml #generated:37
+-keep class com.hlidskialf.android.preference.SeekBarPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class de.homac.Mirrored.ArticleViewer { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class de.homac.Mirrored.ArticlesList { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class de.homac.Mirrored.CategoriesList { <init>(...); }
+
+# view res/xml/preferences.xml #generated:44
+-keep class de.homac.Mirrored.DialogExPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class de.homac.Mirrored.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class de.homac.Mirrored.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class de.homac.Mirrored.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class de.homac.Mirrored.Mirrored { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class de.homac.Mirrored.Preferences { <init>(...); }
+

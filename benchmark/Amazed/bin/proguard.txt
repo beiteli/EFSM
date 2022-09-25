@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:4
+-keep class com.example.amazed.AmazedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.example.amazed.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.example.amazed.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.example.amazed.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+

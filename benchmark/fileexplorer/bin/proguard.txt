@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:22
+-keep class edu.killerud.fileexplorer.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class edu.killerud.fileexplorer.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class edu.killerud.fileexplorer.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class edu.killerud.fileexplorer.ExplorerActivity { <init>(...); }
+

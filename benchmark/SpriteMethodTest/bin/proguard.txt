@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.android.spritemethodtest.CanvasTestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.android.spritemethodtest.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.android.spritemethodtest.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.spritemethodtest.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.android.spritemethodtest.OpenGLTestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.android.spritemethodtest.SpriteMethodTest { <init>(...); }
+

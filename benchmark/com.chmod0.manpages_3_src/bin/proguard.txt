@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.chmod0.manpages.BrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.chmod0.manpages.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.chmod0.manpages.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.chmod0.manpages.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class com.chmod0.manpages.ManualActivity { <init>(...); }
+

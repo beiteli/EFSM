@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:61
+-keep class com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.irahul.worldclock.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.irahul.worldclock.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.irahul.worldclock.TimeZoneEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.irahul.worldclock.WorldClockActivity { <init>(...); }
+

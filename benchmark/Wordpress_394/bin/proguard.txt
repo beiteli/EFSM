@@ -1,0 +1,130 @@
+# view AndroidManifest.xml #generated:49
+-keep class org.wordpress.android.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class org.wordpress.android.AddAccount { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class org.wordpress.android.AddAcountSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class org.wordpress.android.AddCategory { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class org.wordpress.android.AddQuickPressShortcut { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class org.wordpress.android.CommentBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class org.wordpress.android.CommentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class org.wordpress.android.Comments { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class org.wordpress.android.Dashboard { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class org.wordpress.android.EditContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.wordpress.android.EditPost { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class org.wordpress.android.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class org.wordpress.android.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class org.wordpress.android.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class org.wordpress.android.Link { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class org.wordpress.android.NewAccount { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class org.wordpress.android.Posts { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class org.wordpress.android.Preferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class org.wordpress.android.Read { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class org.wordpress.android.ReplyToComment { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class org.wordpress.android.SelectCategories { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class org.wordpress.android.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class org.wordpress.android.Signup { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class org.wordpress.android.TabView { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class org.wordpress.android.ViewCommentActivity { <init>(...); }
+
+# view xlarge/res/layout-xlarge/comments.xml #generated:32
+-keep class org.wordpress.android.ViewCommentFragment { <init>(...); }
+
+# view res/layout/comments.xml #generated:16
+# view xlarge/res/layout-xlarge/comments.xml #generated:20
+-keep class org.wordpress.android.ViewComments { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class org.wordpress.android.ViewDrafts { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class org.wordpress.android.ViewPostActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class org.wordpress.android.ViewPostComments { <init>(...); }
+
+# view xlarge/res/layout-xlarge/posts.xml #generated:31
+-keep class org.wordpress.android.ViewPostFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+# view res/layout/posts.xml #generated:16
+# view xlarge/res/layout-xlarge/posts.xml #generated:20
+-keep class org.wordpress.android.ViewPosts { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class org.wordpress.android.ViewStats { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class org.wordpress.android.WordPress { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class org.wordpress.android.Write { <init>(...); }
+
+# view res/layout/dashboard_buttons_landscape.xml #generated:270
+# view res/layout/dashboard_buttons_portrait.xml #generated:278
+-keep class org.wordpress.android.util.CommentBadgeTextView { <init>(...); }
+
+# view res/layout/edit.xml #generated:47
+# view res/layout/edit_content.xml #generated:14
+# view res/layout/edit_page.xml #generated:42
+# view xlarge/res/layout-xlarge/edit.xml #generated:50
+# view xlarge/res/layout-xlarge/edit_page.xml #generated:44
+-keep class org.wordpress.android.util.WPEditText { <init>(...); }
+
+# view land/res/layout-land/action_bar.xml #generated:2
+# view res/layout/action_bar.xml #generated:2
+-keep class org.wordpress.android.util.WPTitleBar { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class org.wordpress.android.wpAndroid { <init>(...); }
+
+# onClick res/layout/about.xml #generated:79
+# onClick res/layout/list_footer_btn.xml #generated:2
+-keepclassmembers class * { *** onClick(...); }
+

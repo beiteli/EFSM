@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:23
+-keep class org.jfedor.frozenbubble.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class org.jfedor.frozenbubble.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class org.jfedor.frozenbubble.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class org.jfedor.frozenbubble.FrozenBubble { <init>(...); }
+
+# view res/layout/main.xml #generated:7
+-keep class org.jfedor.frozenbubble.GameView { <init>(...); }
+

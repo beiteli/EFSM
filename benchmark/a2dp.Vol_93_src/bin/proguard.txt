@@ -1,0 +1,57 @@
+# view AndroidManifest.xml #generated:49
+-keep class a2dp.Vol.ALauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class a2dp.Vol.AppChooser { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class a2dp.Vol.Changed { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class a2dp.Vol.CustomIntentMaker { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class a2dp.Vol.EditDevice { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class a2dp.Vol.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class a2dp.Vol.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class a2dp.Vol.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class a2dp.Vol.ListViewer { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class a2dp.Vol.ManageData { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class a2dp.Vol.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class a2dp.Vol.Preferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class a2dp.Vol.ProviderList { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class a2dp.Vol.Starter { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class a2dp.Vol.StoreLoc { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class a2dp.Vol.Widget { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class a2dp.Vol.main { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class a2dp.Vol.service { <init>(...); }
+
+# onClick res/layout/main.xml #generated:7
+-keepclassmembers class * { *** ButtonClick()(...); }
+

@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:5
+-keep class com.addi.Addi { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.addi.AddiEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.addi.AddiIntent { <init>(...); }
+
+# view res/layout/edit.xml #generated:15
+# view res/layout/main.xml #generated:16
+-keep class com.addi.CandidateView { <init>(...); }
+
+# view res/layout/edit.xml #generated:8
+# view res/layout/main.xml #generated:33
+-keep class com.addi.EditTextExtend { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.addi.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.addi.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.addi.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view res/layout/edit.xml #generated:21
+# view res/layout/main.xml #generated:45
+-keep class com.addi.KeyboardViewExtend { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.addi.ShowSettingsActivity { <init>(...); }
+
+# view res/layout/input.xml #generated:21
+-keep class com.example.android.softkeyboard.LatinKeyboardView { <init>(...); }
+

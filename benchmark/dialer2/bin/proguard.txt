@@ -1,0 +1,48 @@
+# view AndroidManifest.xml #generated:50
+-keep class org.dnaq.dialer2.ContactViewDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:5
+-keep class org.dnaq.dialer2.DialerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class org.dnaq.dialer2.DialerPreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class org.dnaq.dialer2.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class org.dnaq.dialer2.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class org.dnaq.dialer2.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class org.dnaq.dialer2.SelectNumberDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class org.dnaq.dialer2.SelectSpeedDialSlotDialog { <init>(...); }
+
+# onClick land-hdpi/res/layout-land-hdpi/main.xml #generated:40
+# onClick land-ldpi/res/layout-land-ldpi/main.xml #generated:40
+# onClick land-mdpi/res/layout-land-mdpi/main.xml #generated:40
+# onClick res/layout/contactview_dialog.xml #generated:22
+# onClick res/layout/contactview_dialog.xml #generated:9
+# onClick res/layout/contactview_dialog_item_phone.xml #generated:2
+# onClick res/layout/dialpad.xml #generated:104
+# onClick res/layout/dialpad.xml #generated:110
+# onClick res/layout/dialpad.xml #generated:126
+# onClick res/layout/dialpad.xml #generated:132
+# onClick res/layout/dialpad.xml #generated:138
+# onClick res/layout/dialpad.xml #generated:153
+# onClick res/layout/dialpad.xml #generated:161
+# onClick res/layout/dialpad.xml #generated:169
+# onClick res/layout/dialpad.xml #generated:34
+# onClick res/layout/dialpad.xml #generated:41
+# onClick res/layout/dialpad.xml #generated:48
+# onClick res/layout/dialpad.xml #generated:67
+# onClick res/layout/dialpad.xml #generated:74
+# onClick res/layout/dialpad.xml #generated:81
+# onClick res/layout/dialpad.xml #generated:98
+# onClick res/layout/main.xml #generated:29
+-keepclassmembers class * { *** onClick(...); }
+

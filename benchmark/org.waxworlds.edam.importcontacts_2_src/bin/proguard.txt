@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:35
+-keep class org.waxworlds.edam.importcontacts.ConfigureVCF { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class org.waxworlds.edam.importcontacts.Doit { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class org.waxworlds.edam.importcontacts.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class org.waxworlds.edam.importcontacts.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class org.waxworlds.edam.importcontacts.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class org.waxworlds.edam.importcontacts.Intro { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class org.waxworlds.edam.importcontacts.Merge { <init>(...); }
+
